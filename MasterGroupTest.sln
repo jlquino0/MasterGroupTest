@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MasterGroupTest", "MasterGroupTest\MasterGroupTest.njsproj", "{BAD7FA09-79AF-4E82-AB7F-0E1B0B925067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD7FA09-79AF-4E82-AB7F-0E1B0B925067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD7FA09-79AF-4E82-AB7F-0E1B0B925067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD7FA09-79AF-4E82-AB7F-0E1B0B925067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD7FA09-79AF-4E82-AB7F-0E1B0B925067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58953AE7-ECB0-4FF6-A328-6E37DD4C4339}
+	EndGlobalSection
+EndGlobal
